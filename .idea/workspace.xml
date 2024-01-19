@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a93203e-01d1-4049-a765-48806d38dcd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Traingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/SqaureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TraingleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bACl1AWpUHw2hoUS0GvaHdAxgO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CircleTest.CircleofNegativeRadius.executor": "Run",
+    "JUnit.CircleTest.executor": "Run",
+    "JUnit.RectangleTest.executor": "Run",
+    "JUnit.ShapeTest.executor": "Run",
+    "JUnit.Shapetest.executor": "Run",
+    "JUnit.SqaureTest.executor": "Run",
+    "JUnit.TraingleTest (1).executor": "Run",
+    "JUnit.TraingleTest.areaTraingleofSideOne.executor": "Run",
+    "JUnit.TraingleTest.circumferenceTriangleOfAnySide.executor": "Run",
+    "JUnit.TraingleTest.circumferenceTriangleOfSideOne.executor": "Run",
+    "JUnit.TraingleTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/mehak.jindal_ftc/IdeaProjects/Shapes/src/main/java/test",
+    "onboarding.tips.debug.path": "/Users/mehak.jindal_ftc/IdeaProjects/Shapes/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.interfaces" />
+      <recent name="java" />
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CircleTest">
+    <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CircleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraingleTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraingleTest.areaTraingleofSideOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
+      <option name="METHOD_NAME" value="areaTraingleofSideOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraingleTest.circumferenceTriangleOfAnySide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
+      <option name="METHOD_NAME" value="circumferenceTriangleOfAnySide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraingleTest.circumferenceTriangleOfSideOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
+      <option name="METHOD_NAME" value="circumferenceTriangleOfSideOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CircleTest" />
+        <item itemvalue="JUnit.TraingleTest.circumferenceTriangleOfAnySide" />
+        <item itemvalue="JUnit.TraingleTest.circumferenceTriangleOfSideOne" />
+        <item itemvalue="JUnit.TraingleTest (1)" />
+        <item itemvalue="JUnit.TraingleTest.areaTraingleofSideOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a93203e-01d1-4049-a765-48806d38dcd6" name="Changes" comment="" />
+      <created>1705648643683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705648643683</updated>
+    </task>
+    <servers />
+  </component>
+</project>
