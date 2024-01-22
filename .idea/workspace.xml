@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a93203e-01d1-4049-a765-48806d38dcd6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/MyFile" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/MyFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/shapes/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/MyFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/SqaureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/SqaureTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,9 @@
     "JUnit.RectangleTest.executor": "Run",
     "JUnit.ShapeTest.executor": "Run",
     "JUnit.Shapetest.executor": "Run",
+    "JUnit.SqaureTest.areaSquareOfSideOne.executor": "Run",
     "JUnit.SqaureTest.executor": "Run",
+    "JUnit.SqaureTest.squareOfNegativeSide.executor": "Run",
     "JUnit.TraingleTest (1).executor": "Run",
     "JUnit.TraingleTest.areaTraingleofSideOne.executor": "Run",
     "JUnit.TraingleTest.circumferenceTriangleOfAnySide.executor": "Run",
@@ -54,6 +59,7 @@
     "git-widget-placeholder": "shape",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/Users/mehak.jindal_ftc/IdeaProjects/Shapes/src/main/java/test",
+    "last_opened_file_path": "/Users/mehak.jindal_ftc/IdeaProjects/Shapes",
     "onboarding.tips.debug.path": "/Users/mehak.jindal_ftc/IdeaProjects/Shapes/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -67,48 +73,24 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CircleTest">
-    <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RectangleTest.rectangleOfNegativeSide">
+    <configuration name="CircleTest.circleOfNegativeRadius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.CircleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TraingleTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Shapes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TraingleTest.areaTraingleofSideOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Shapes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
-      <option name="METHOD_NAME" value="areaTraingleofSideOne" />
+      <option name="METHOD_NAME" value="circleOfNegativeRadius" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraingleTest.circumferenceTriangleOfAnySide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RectangleTest.rectangleOfNegativeSide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Shapes" />
       <extension name="coverage">
         <pattern>
@@ -117,14 +99,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
-      <option name="METHOD_NAME" value="circumferenceTriangleOfAnySide" />
+      <option name="MAIN_CLASS_NAME" value="test.RectangleTest" />
+      <option name="METHOD_NAME" value="rectangleOfNegativeSide" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraingleTest.circumferenceTriangleOfSideOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SqaureTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Shapes" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +115,39 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TraingleTest" />
-      <option name="METHOD_NAME" value="circumferenceTriangleOfSideOne" />
+      <option name="MAIN_CLASS_NAME" value="test.SqaureTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqaureTest.areaSquareOfSideOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SqaureTest" />
+      <option name="METHOD_NAME" value="areaSquareOfSideOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SqaureTest.squareOfNegativeSide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Shapes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SqaureTest" />
+      <option name="METHOD_NAME" value="squareOfNegativeSide" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -142,13 +155,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CircleTest" />
-        <item itemvalue="JUnit.TraingleTest.circumferenceTriangleOfAnySide" />
-        <item itemvalue="JUnit.TraingleTest.circumferenceTriangleOfSideOne" />
-        <item itemvalue="JUnit.TraingleTest (1)" />
-        <item itemvalue="JUnit.TraingleTest.areaTraingleofSideOne" />
+        <item itemvalue="JUnit.RectangleTest.rectangleOfNegativeSide" />
+        <item itemvalue="JUnit.CircleTest.circleOfNegativeRadius" />
+        <item itemvalue="JUnit.SqaureTest.squareOfNegativeSide" />
+        <item itemvalue="JUnit.SqaureTest.areaSquareOfSideOne" />
+        <item itemvalue="JUnit.SqaureTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
