@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 
 public class CircleTest {
 
-    @Test
+    @Test(expected = IllegalArgumentException.class)
     public void circleOfNegativeRadius() {
         Circle circle = new Circle(-1);
         circle.area();

@@ -8,7 +8,7 @@ import static org.junit.Assert.assertTrue;
 
 public class RectangleTest {
 
-    @Test
+    @Test(expected = IllegalArgumentException.class)
     public void rectangleOfNegativeSide()
     {
         Rectangle rectangle = new Rectangle(-1,2);
@@ -17,7 +17,7 @@ public class RectangleTest {
     }
 
     @Test
-    public void RrectangleofSideOne()
+    public void RectangleofSideOne()
     {
         Rectangle rectangle = new Rectangle(1,1);
         double result = rectangle.area();

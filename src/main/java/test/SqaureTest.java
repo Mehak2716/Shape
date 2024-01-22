@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 
 public class SqaureTest {
 
-    @Test
+    @Test (expected = IllegalArgumentException.class)
     public void squareOfNegativeSide()
     {
         Square square = new Square(-1);
